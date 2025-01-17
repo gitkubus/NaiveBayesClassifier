@@ -3,7 +3,7 @@
 - Jakub Janus
 - Jakub Kaliński
 
-Projekt został zrealizowany w ramach kursu Rachunek Prawdopodobieństwa i Statystyka
+Projekt został zrealizowany w ramach kursu Rachunek Prawdopodobieństwa i Statystyka na 3 semestrze kierunku Informatyka na Wydziale Informatyki Akademii Górniczo-Hutniczej w Krakowie.
 
 ## Opis projektu
 Repozytorium zawiera implementację Naiwnego Klasyfikatora Bayesowskiego dla zbiorów danych o cechach kategorycznych lub ilościowych.
